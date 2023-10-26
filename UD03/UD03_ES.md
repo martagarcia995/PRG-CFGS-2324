@@ -144,7 +144,7 @@ En este tercer archivo, podrás apreciar que se ha organizado el código en las 
 > - Inicializa con un valor cada variable la primera vez que la utilices.
 > - No es recomendable usar variables no inicializadas en nuestros programas, pueden provocar errores o resultados imprevistos.
 
-# Estructuras de selección
+# Estructuras de selección:
 
 ¿Cómo conseguimos que nuestros programas puedan tomar decisiones? Para comenzar, lo haremos a través de las estructuras de selección. Estas estructuras constan de una sentencia especial de decisión y de un conjunto de secuencias de instrucciones.
 
